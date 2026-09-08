@@ -187,20 +187,8 @@ node promiseAssignment.js
 
 ## Example Output
 
-```text
-Coding Assessment cleared!
-Coding Average: 80
+<img width="492" height="182" alt="image" src="https://github.com/user-attachments/assets/5d5a3069-e20b-4dbd-aef0-9b7c395c1799" />
 
-Technical Interview cleared!
-Technical Average: 80.2
-
-Final Selection cleared!
-Final Average: 80.1
-
-Congratulations! You have been selected.
-```
-
----
 
 ## Conclusion
 
