@@ -134,58 +134,13 @@ node promiseAssignment.js
 
 # Screenshots
 
-## Screenshot 1 – JavaScript Code
 
-**Paste the screenshot of your complete `promiseAssignment.js` code below.**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-**Figure 1: Promise-Based Recruitment Evaluation System Code**
 
 ---
 
-## Screenshot 2 – Successful Output
-
-**Paste the screenshot showing the successful execution and final selection output below.**
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-**Figure 2: Successful Recruitment Evaluation Output**
-
----
-
-## Screenshot 3 – Failure Output
-
-**Paste the screenshot showing the rejected Promise / failure message below.**
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-**Figure 3: Promise Rejection and Failure Output**
-
----
-
-## Example Output
+## Output
 
 <img width="492" height="182" alt="image" src="https://github.com/user-attachments/assets/5d5a3069-e20b-4dbd-aef0-9b7c395c1799" />
 
